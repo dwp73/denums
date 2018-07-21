@@ -1,0 +1,18 @@
+{
+    "name": "jyhk/enums",
+    "description": "an enum obj",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "yangjiahukou",
+            "email": "dwp7399@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Denums\\": "src/"
+        }
+    }
+}
